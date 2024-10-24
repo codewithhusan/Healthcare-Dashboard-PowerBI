@@ -3,7 +3,7 @@
 ## 📊Overview
 This project involves building a Power BI dashboard for healthcare data analysis. The dashboard provides insights into key metrics such as patient statistics, resource allocation, and facility performance.
 
-![Power BI Dashboard]((https://github.com/codewithhusan/Healthcare-Dashboard-PowerBI/blob/main/healthcare_dashboard.png))
+![Screenshot 2024-09-25 004557](https://github.com/user-attachments/assets/81899f83-5253-41d4-bc7f-51e4d0a6f808)
 
 
 ## ✨Key Features
